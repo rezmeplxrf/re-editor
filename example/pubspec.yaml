@@ -11,17 +11,16 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  collection: ^1.17.1  
-  re_highlight: ^0.0.2  
+  collection: ^1.17.1
+  re_highlight: ^0.0.2
   re_editor:
-    path: ../  
+    path: ../
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter packages.
 flutter:
-
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
